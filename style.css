@@ -71,4 +71,20 @@
     margin:12px auto;
 
 }
+.allthreeimages{
+    display:flex;
+}
+.myimagecontainer1{
+    display:inline-flex;
+}
+.myimagecontainer2{
+    display:inline-flex;
+}
+.myimagecontainer3{
+    display:inline-flex;
+}
+.myheader{
+    
+}
+
 
