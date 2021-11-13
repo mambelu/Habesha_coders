@@ -218,3 +218,78 @@ width: 65%;
 
     padding-top: 8px;
 }
+.mycontainer{
+    background-color: lightgray;
+    width:100%
+    
+    
+   
+}
+.allthreeimages{
+    display:flex;
+    width:100%;
+    
+}
+
+.container1{
+    width:33%;
+    margin:0px 32px 32px 72px;
+    
+    
+}
+.container2{
+    width:33%;
+    margin: 0px 32px;
+    
+    
+}
+.container3{
+    width:33%;
+    margin: 0px 72px 32px 32px;
+    
+    
+}
+.image1 img{
+width:100%;
+height: auto;
+}
+.image2 img{
+    width:100%;
+    height: auto;
+    }
+.image3 img{
+        width:100%;
+        height: auto;
+        }
+
+.myheader{
+   margin-top:32px;
+  font-weight:bold;
+  font-size:1.5em;
+  text-align: center;
+  padding: 32px 0px 32px 0px; 
+
+  
+}   
+
+.text1 h4{
+    font-weight: bold;
+    padding:16px 0px 8px 0px;
+    font-size: 20px;
+    
+}
+
+.text2 h4{
+    font-weight: bold;
+    padding:16px 0px 8px 0px;
+    font-size: 20px;
+    
+}
+.text3 h4{
+    font-weight: bold;
+    padding:16px 0px 8px 0px;
+    font-size: 20px;
+    
+}
+
+
