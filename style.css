@@ -12,13 +12,7 @@
     height:32px;
     padding-top:20px;
     
-    
-    
-}
-#logo img{
-    
-    
-    
+   
 }
 #academy{
     font-weight: bolder;
@@ -71,3 +65,231 @@
     margin:12px auto;
 
 }
+
+.inner-container{
+    width: 100%;
+    background-color: white;
+    display: flex;
+    margin: 32px 24px;
+    
+}
+
+.left-container{
+      width: 60%;
+   
+}
+#manReading-container{
+  
+    height: auto;
+    margin-right: 24px;
+    margin-left: 24px;
+   
+
+
+}
+.main-image{
+    width: 100%;
+
+}
+.header-text{
+
+    margin-bottom: 24px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px ;
+   
+}
+.quote{
+    margin-top: 24px;
+    margin-bottom: 32px;
+    font-size: 18px;
+}
+.right-container{
+    width: 40%;
+    height: auto;
+   
+}
+
+.right-top{
+
+    display: flex; 
+    width: 100%;
+}
+     
+.right-top-left {
+   width: 35%;
+   display: inline-flex;
+}
+ 
+.orientation-image{
+    
+    margin: 16px 24px 24px;
+    
+    height: auto;
+
+}
+.orientation{
+width: 65%; 
+ height: auto;
+ margin-left: 30px;
+    
+}
+.right-top img{
+   width: 100%;
+   height: auto;
+}
+.orientation a{
+    text-decoration: none;
+    color:#0084ff;
+    font-size: 18px;
+}
+.right-middel{
+
+    display: flex; 
+    width: 100%;
+}
+     
+.right-middle-left {
+   width: 35%;
+   display: inline-flex;
+}
+ 
+.campus-image{
+    
+    margin: 16px 24px 24px;
+    
+    height: auto;
+
+}
+.campus{
+width: 65%; 
+ height: auto;
+ margin-left: 30px;
+    
+}
+.campus-image img{
+   width: 100%;
+   height: auto;
+}
+.campus a{
+    text-decoration: none;
+    color:#0084ff;
+    font-size: 18px;
+}
+
+.right-last{
+
+    background-color: rgb(211, 211, 211);
+    display: flex; 
+    width: 100%;
+}
+     
+.right-last-left {
+   width: 35%;
+   display: inline-flex;
+}
+ 
+.guestImage-container{
+    
+    margin: 16px 24px 24px;
+    
+    height: auto;
+
+}
+.lectureContent{
+width: 65%; 
+ height: auto;
+ margin-left: 30px;
+    
+}
+.guestImage-container img{
+   width: 100%;
+   height: auto;
+}
+.lectureContent a{
+    text-decoration: none;
+    color:#0084ff;
+    font-size: 18px;
+}
+# heading {
+    padding-top: 24px;
+}
+ .lectureContent p{
+
+    padding-top: 8px;
+}
+.mycontainer{
+    background-color: lightgray;
+    width:100%
+    
+    
+   
+}
+.allthreeimages{
+    display:flex;
+    width:100%;
+    
+}
+
+.container1{
+    width:33%;
+    margin:0px 32px 32px 72px;
+    
+    
+}
+.container2{
+    width:33%;
+    margin: 0px 32px;
+    
+    
+}
+.container3{
+    width:33%;
+    margin: 0px 72px 32px 32px;
+    
+    
+}
+.image1 img{
+width:100%;
+height: auto;
+}
+.image2 img{
+    width:100%;
+    height: auto;
+    }
+.image3 img{
+        width:100%;
+        height: auto;
+        }
+
+.myheader{
+   margin-top:32px;
+  font-weight:bold;
+  font-size:1.5em;
+  text-align: center;
+  padding: 32px 0px 32px 0px; 
+
+  
+}   
+
+.text1 h4{
+    font-weight: bold;
+    padding:16px 0px 8px 0px;
+    font-size: 20px;
+    
+}
+
+.text2 h4{
+    font-weight: bold;
+    padding:16px 0px 8px 0px;
+    font-size: 20px;
+    
+}
+.text3 h4{
+    font-weight: bold;
+    padding:16px 0px 8px 0px;
+    font-size: 20px;
+    
+}
+
+
