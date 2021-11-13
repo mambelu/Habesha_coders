@@ -1,3 +1,6 @@
+*{
+
+}
 .nav-bar{
     display:flex;
     justify-content:space-between;
@@ -211,7 +214,7 @@ width: 65%;
     color:#0084ff;
     font-size: 18px;
 }
-# heading {
+#heading {
     padding-top: 24px;
 }
  .lectureContent p{
@@ -234,15 +237,130 @@ width: 65%;
 .container1{
     width:33%;
     margin:0px 32px 32px 72px;
+    background-color: white;
     
     
 }
 .container2{
     width:33%;
-    margin: 0px 32px;
+    margin: 0px 32px 32px 0px;
+    background-color: white;
+    padding-bottom: 32px;
     
     
 }
+.container3{
+    width:33%;
+    margin: 0px 72px 32px 32px;
+    background-color: white;
+    
+    
+}
+.image1 img{
+width:100%;
+height: auto;
+}
+.image2 img{
+    width:100%;
+    height: auto;
+    }
+.image3 img{
+        width:100%;
+        height: auto;
+        }
+
+.myheader{
+   margin-top:32px;
+  font-weight:bold;
+  font-size:1.5em;
+  text-align: center;
+  padding: 32px 0px 32px 0px; 
+
+  
+}   
+.text1{
+    margin-left:16px;
+}
+.text1 h3{
+    font-weight: bold;
+    padding-top:16px;
+    font-size:24px;
+    
+    
+}
+.text1 h4{
+    font-weight:lighter;
+    padding-top:8px 0px;
+}
+.text1 p{
+    
+}
+.text2{
+    margin-left:16px;
+}
+.text2 h3{
+    font-weight: bold;
+    padding-top:16px;
+    font-size:24px;
+    
+    
+}
+.text2 h4{
+    font-weight:lighter;
+    padding-top:8px 0px;
+}
+.text2 p{
+    
+}
+
+/* .text2 h3{
+    font-weight: bold;
+    padding:16px 0px 8px 0px;
+    font-size: 20px;
+     */
+
+/* .text3 h3{
+    font-weight: bold;
+    padding:16px 0px 8px 0px;
+    font-size: 20px;
+     */
+     .text3{
+        margin-left:16px;
+    }
+    .text3 h3{
+        font-weight: bold;
+        padding-top:16px;
+        font-size:24px;
+        
+        
+    }
+    .text3 h4{
+        font-weight:lighter;
+        padding-top:8px 0px;
+    }
+    .text3 p{
+        
+    }
+.mycontainer{
+    background-color: lightgray;
+    width:100%
+    
+    
+   
+}
+.allthreeimages{
+    display:flex;
+    width:100%;
+    
+}
+
+.container1{
+    width:33%;
+    margin:0px 32px 32px 72px;
+    
+    
+}
+
 .container3{
     width:33%;
     margin: 0px 72px 32px 32px;
@@ -291,5 +409,91 @@ height: auto;
     font-size: 20px;
     
 }
+/* haile */
+.bigcontainer{
+    background-color: lightgray;
+    width:100%
+    
+    
+    
+   
+}
+.allthreeimages2{
+    display:flex;
+    width:100%;
+    
+}
+
+.datacontainer{
+    width:33%;
+    margin:0px 32px 32px 72px;
+    background-color: white;
+    
+    
+}
+.businessContainer{
+    width:33%;
+    margin: 0px 32px;
+    background-color: white;
+    
+    
+}
+.marketingcontainer{
+    width:33%;
+    margin: 0px 72px 32px 32px;
+    background-color: white;
+    
+    
+}
+.image_data img{
+width:100%;
+height: auto;
+}
+.image_business img{
+    width:100%;
+    height: auto;
+    }
+.image_marketing img{
+        width:100%;
+        height: auto;
+        }
+
+
+
+.textData h3{
+    font-weight: bold;
+    padding:16px 0px 8px 0px;
+    font-size: 20px;
+    
+}
+.textData h4{
+    padding-bottom:8px;
+}
+
+.businessText h3{
+    font-weight: bold;
+    padding:16px 0px 8px 0px;
+    font-size: 20px;
+    
+}
+.businessText h4{
+    padding-bottom:8px;
+}
+.marketingText h3{
+    font-weight: bold;
+    padding:16px 0px 8px 0px;
+    font-size: 20px;
+    
+}
+.marketingText h4{
+    padding-bottom:8px;
+}
+
+    
+   
+
+
+
+
 
 
